@@ -1,0 +1,19 @@
+[project]
+name = "coding"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "autograd>=1.8.0",
+    "ipykernel>=7.1.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.7",
+    "numba>=0.62.1",
+    "numpy>=2.3.4",
+    "plotly>=6.4.0",
+    "scienceplots>=2.1.1",
+    "scipy>=1.16.3",
+    "sympy>=1.14.0",
+    "tqdm>=4.67.1",
+]
